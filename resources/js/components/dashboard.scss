@@ -1,0 +1,9 @@
+.route-wrapper {
+    position: relative;
+}
+
+.route-wrapper > div {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
